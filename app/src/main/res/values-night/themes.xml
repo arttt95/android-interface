@@ -2,6 +2,56 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.ComponentesInterface" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!-- Primary -->
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorPrimaryContainer">@color/darkColorPrimaryContainer</item>
+
+        <item name="colorOnPrimary">@color/darkColorOnPrimary</item>
+        <item name="colorOnPrimaryContainer">@color/darkColorOnPrimaryContainer</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/darkColorSecundary</item>
+        <item name="colorSecondaryContainer">@color/darkColorSecundaryContainer</item>
+
+        <item name="colorOnSecondary">@color/darkColorOnSecondary</item>
+        <item name="colorOnSecondaryContainer">@color/darkColorOnSecondaryContainer</item>
+
+        <!-- Tertiary -->
+        <item name="colorTertiary">@color/darkColorTertiary</item>
+        <item name="colorTertiaryContainer">@color/darkColorTertiaryContainer</item>
+
+        <item name="colorOnTertiary">@color/darkColorOnTertiary</item>
+        <item name="colorOnTertiaryContainer">@color/darkColorOnTertiaryContainer</item>
+
+        <!-- Error -->
+        <item name="colorError">@color/darkColorError</item>
+        <item name="colorErrorContainer">@color/darkColorErrorContainer</item>
+
+        <item name="colorOnError">@color/darkColorOnError</item>
+        <item name="colorOnErrorContainer">@color/darkColorOnErrorContainer</item>
+
+        <!-- Surface -->
+        <item name="colorSurfaceDim">@color/darkColorSurfaceDim</item>
+        <item name="colorSurface">@color/darkColorSurface</item>
+        <item name="colorSurfaceBright">@color/darkColorSurfaceBright</item>
+
+        <item name="colorSurfaceContainerLowest">@color/darkColorSurfaceContainerLowest</item>
+        <item name="colorSurfaceContainerLow">@color/darkColorSurfaceContainerLow</item>
+        <item name="colorSurfaceContainer">@color/darkColorSurfaceContainer</item>
+        <item name="colorSurfaceContainerHigh">@color/darkColorSurfaceContainerHigh</item>
+        <item name="colorSurfaceContainerHighest">@color/darkColorSurfaceContainerHighest</item>
+
+        <item name="colorOnSurface">@color/darkColorOnSurface</item>
+        <item name="colorOnSurfaceVariant">@color/darkColorOnSurfaceVariant</item>
+
+        <item name="colorOutline">@color/darkColorOutline</item>
+        <item name="colorOutlineVariant">@color/darkColorOutlineVariant</item>
+
+        <!-- Inverse -->
+        <item name="colorSurfaceInverse">@color/darkColorSurfaceInverse</item>
+        <item name="colorOnSurfaceInverse">@color/darkColorOnSurfaceInverse</item>
+        <item name="colorPrimaryInverse">@color/darkColorPrimaryInverse</item>
+
     </style>
 </resources>
