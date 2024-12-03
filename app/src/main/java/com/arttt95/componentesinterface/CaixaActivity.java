@@ -1,6 +1,8 @@
 package com.arttt95.componentesinterface;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +22,23 @@ public class CaixaActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        /*  Usando uma função anônima para instânciar uma View
+        Button botao = findViewById(R.id.botao_salvar);
+        botao.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                System.out.println("Botão foi clicado!");
+
+            }
+        });*/
+
+        // Utilizando uma função lambda
+        Button botao = findViewById(R.id.botao_salvar);
+        botao.setOnClickListener(v -> System.out.println("Botão foi clicado!"));
+
     }
+
+
 }
