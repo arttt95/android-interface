@@ -2,7 +2,57 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.ComponentesInterface" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Primary -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer</item>
+
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainer</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/colorSecundary</item>
+        <item name="colorSecondaryContainer">@color/colorSecundaryContainer</item>
+
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainer</item>
+
+        <!-- Tertiary -->
+        <item name="colorTertiary">@color/colorTertiary</item>
+        <item name="colorTertiaryContainer">@color/colorTertiaryContainer</item>
+
+        <item name="colorOnTertiary">@color/colorOnTertiary</item>
+        <item name="colorOnTertiaryContainer">@color/colorOnTertiaryContainer</item>
+
+        <!-- Error -->
+        <item name="colorError">@color/colorError</item>
+        <item name="colorErrorContainer">@color/colorErrorContainer</item>
+
+        <item name="colorOnError">@color/colorOnError</item>
+        <item name="colorOnErrorContainer">@color/colorOnErrorContainer</item>
+
+        <!-- Surface -->
+        <item name="colorSurfaceDim">@color/colorSurfaceDim</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorSurfaceBright">@color/colorSurfaceBright</item>
+
+        <item name="colorSurfaceContainerLowest">@color/colorSurfaceContainerLowest</item>
+        <item name="colorSurfaceContainerLow">@color/colorSurfaceContainerLow</item>
+        <item name="colorSurfaceContainer">@color/colorSurfaceContainer</item>
+        <item name="colorSurfaceContainerHigh">@color/colorSurfaceContainerHigh</item>
+        <item name="colorSurfaceContainerHighest">@color/colorSurfaceContainerHighest</item>
+
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariant</item>
+
+        <item name="colorOutline">@color/colorOutline</item>
+        <item name="colorOutlineVariant">@color/colorOutlineVariant</item>
+
+        <!-- Inverse -->
+        <item name="colorSurfaceInverse">@color/colorSurfaceInverse</item>
+        <item name="colorOnSurfaceInverse">@color/colorOnSurfaceInverse</item>
+        <item name="colorPrimaryInverse">@color/colorPrimaryInverse</item>
+
     </style>
 
     <style name="Theme.ComponentesInterface" parent="Base.Theme.ComponentesInterface" />

@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ComponentesInterface</string>
     <string name="botao_jogar">PLAY</string>
+    <string name="scroll_view_description">
+        Nessa tela é possível rolar para baixo para interagir com todo o conteúdo da tela.
+    </string>
 </resources>

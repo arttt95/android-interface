@@ -1,11 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
     <!-- Cores Customizadas -->
 
-    <color name="texto_botao">#0068FF</color>
+    <!-- Insira aqui suas cores preferidas -->
+
+    <!-- Cores Customizadas para o TEMA LIGHT -->
+
+    <!-- Primary -->
+    <color name="colorPrimary">#5c631d</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorPrimaryContainer">#e1e993</color>
+    <color name="colorOnPrimaryContainer">#1a1d00</color>
+
+    <!-- Secondary -->
+    <color name="colorSecundary">#5e6044</color>
+    <color name="colorOnSecondary">#ffffff</color>
+
+    <color name="colorSecundaryContainer">#e4e5c1</color>
+    <color name="colorOnSecondaryContainer">#1b1d07</color>
+
+    <!-- Tertiary -->
+    <color name="colorTertiary">#3c665a</color>
+    <color name="colorOnTertiary">#ffffff</color>
+
+    <color name="colorTertiaryContainer">#beecdc</color>
+    <color name="colorOnTertiaryContainer">#002019</color>
+
+    <!-- Error -->
+    <color name="colorError">#ba1a1a</color>
+    <color name="colorOnError">#ffffff</color>
+
+    <color name="colorErrorContainer">#ffdad6</color>
+    <color name="colorOnErrorContainer">#410002</color>
+
+    <!-- Surface -->
+    <color name="colorSurfaceDim">#dcdace</color>
+    <color name="colorSurface">#f9faef</color>
+    <color name="colorSurfaceBright">#fcfaec</color>
+
+    <color name="colorSurfaceContainerLowest">#ffffff</color>
+    <color name="colorSurfaceContainerLow">#f6f4e7</color>
+    <color name="colorSurfaceContainer">#f0eee1</color>
+    <color name="colorSurfaceContainerHigh">#ebe8dc</color>
+    <color name="colorSurfaceContainerHighest">#e5e3d6</color>
+
+    <color name="colorOnSurface">#1c1c14</color>
+    <color name="colorOnSurfaceVariant">#47483b</color>
+
+    <color name="colorOutline">#787869</color>
+    <color name="colorOutlineVariant">#c8c7b7</color>
+
+    <!-- Inverse -->
+    <color name="colorSurfaceInverse">#313128</color>
+    <color name="colorOnSurfaceInverse">#f3f1e4</color>
+    <color name="colorPrimaryInverse">#c5cc7a</color>
+
+
+    <!-- Cores Customizadas para o TEMA DARK -->
+
+    <!-- Primary -->
+    <color name="darkColorPrimary">#b1d18a</color>
+    <color name="darkColorOnPrimary">#1f3701</color>
+
+    <color name="darkColorPrimaryContainer">#354e16</color>
+    <color name="darkColorOnPrimaryContainer">#cdeda3</color>
+
+    <!-- Secondary -->
+    <color name="darkColorSecundary">#bfcbad</color>
+    <color name="darkColorOnSecondary">#2a331e</color>
+
+    <color name="darkColorSecundaryContainer">#404a33</color>
+    <color name="darkColorOnSecondaryContainer">#dce7c8</color>
+
+    <!-- Tertiary -->
+    <color name="darkColorTertiary">#a0d0cb</color>
+    <color name="darkColorOnTertiary">#003735</color>
+
+    <color name="darkColorTertiaryContainer">#1f4e4b</color>
+    <color name="darkColorOnTertiaryContainer">#bcece7</color>
+
+    <!-- Error -->
+    <color name="darkColorError">#ffb4ab</color>
+    <color name="darkColorOnError">#690005</color>
+
+    <color name="darkColorErrorContainer">#93000a</color>
+    <color name="darkColorOnErrorContainer">#ffdad6</color>
+
+    <!-- Surface -->
+    <color name="darkColorSurfaceDim">#12140e</color>
+    <color name="darkColorSurface">#12140e</color>
+    <color name="darkColorSurfaceBright">#383a32</color>
+
+    <color name="darkColorSurfaceContainerLowest">#0c0f09</color>
+    <color name="darkColorSurfaceContainerLow">#1a1c16</color>
+    <color name="darkColorSurfaceContainer">#1e201a</color>
+    <color name="darkColorSurfaceContainerHigh">#282b24</color>
+    <color name="darkColorSurfaceContainerHighest">#33362e</color>
+
+    <color name="darkColorOnSurface">#e2e3d8</color>
+    <color name="darkColorOnSurfaceVariant">#c5c8ba</color>
+
+    <color name="darkColorOutline">#8f9285</color>
+    <color name="darkColorOutlineVariant">#44483d</color>
+
+    <!-- Inverse -->
+    <color name="darkColorSurfaceInverse">#e2e3d8</color>
+    <color name="darkColorOnSurfaceInverse">#2f312a</color>
+    <color name="darkColorPrimaryInverse">#4c662b</color>
 
 
 
