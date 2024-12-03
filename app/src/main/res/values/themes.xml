@@ -53,6 +53,9 @@
         <item name="colorOnSurfaceInverse">@color/colorOnSurfaceInverse</item>
         <item name="colorPrimaryInverse">@color/colorPrimaryInverse</item>
 
+        <!-- Backgfround -->
+        <!--<item name="android:windowBackground">@color/colorWindowBackground</item>-->
+
     </style>
 
     <style name="Theme.ComponentesInterface" parent="Base.Theme.ComponentesInterface" />

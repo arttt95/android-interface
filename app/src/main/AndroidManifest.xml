@@ -13,13 +13,16 @@
         android:theme="@style/Theme.ComponentesInterface"
         tools:targetApi="31">
         <activity
+            android:name=".ScrollViewActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".SegundaActivity"
             android:exported="false" />
         <activity
-            android:name=".ScrollViewActivity"
+            android:name=".CaixaActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             tools:ignore="DiscouragedApi,LockedOrientationActivity">

@@ -111,6 +111,9 @@
     <color name="darkColorOnSurfaceInverse">#2f312a</color>
     <color name="darkColorPrimaryInverse">#4c662b</color>
 
+    <!-- Background -->
+    <color name="colorWindowBackground">#FFFFFF</color>
+
 
 
 </resources>
