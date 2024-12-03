@@ -114,6 +114,9 @@
     <!-- Background -->
     <color name="colorWindowBackground">#FFFFFF</color>
 
+    <!-- Teste -->
+    <color name="colorTeste">#3F51B5</color>
+
 
 
 </resources>

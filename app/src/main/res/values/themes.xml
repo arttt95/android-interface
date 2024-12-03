@@ -59,4 +59,9 @@
     </style>
 
     <style name="Theme.ComponentesInterface" parent="Base.Theme.ComponentesInterface" />
+
+    <style name="caixaTexto" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textColor">@color/colorTeste</item>
+    </style>
+
 </resources>

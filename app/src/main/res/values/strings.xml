@@ -1,7 +1,12 @@
 <resources>
-    <string name="app_name">ComponentesInterface</string>
+    <string name="app_name">MINHA HONRA</string>
     <string name="botao_jogar">PLAY</string>
+    <string name="text_digite_seu_nome">Digite seu nome</string>
+    <string name="text_digite_seu_email">Digite seu email</string>
+    <string name="text_digite_sua_senha">Digite sua senha</string>
+
     <string name="scroll_view_description">
         Nessa tela é possível rolar para baixo para interagir com todo o conteúdo da tela.
     </string>
+
 </resources>
